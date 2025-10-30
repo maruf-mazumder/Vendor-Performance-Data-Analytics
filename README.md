@@ -16,4 +16,7 @@ low-performing vendors.
 
 The dataset Collected for this project is from : https://www.kaggle.com/datasets/ansarianam/vendor-performance-data
 
-The dashboard visually depicts the analysis mentioned in the report file
+The dashboard visually depicts the analysis mentioned in the report file :
+
+
+<img width="1405" height="787" alt="Image" src="https://github.com/user-attachments/assets/86449e75-27c1-4301-adde-4589257e6142" />
